@@ -1,0 +1,15 @@
+.header-container{
+  background: #303B54;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+  width: 100vw;
+}
+
+.header-icons{
+  background: #242D40;
+  box-shadow: -15px -15px 45px #2B364D, 15px 15px 45px #171E2B;
+  padding: 10px;
+  border-radius: 50%;  
+}

@@ -1,0 +1,44 @@
+.job-list-container{
+  background: #1D2331;
+  border-radius: 10px;
+  padding: 16px;
+  margin-top: 45px;
+}
+
+.job-lists{
+  background: #323C52;
+  border-radius: 12px;
+  margin-top: 24px;
+}
+
+.job-lists-main-container{
+  height: 90%;
+  overflow-y: auto;
+  max-height: 90%;
+}
+
+.job-details-container{
+  padding: 10px;
+  align-items: center;
+}
+
+.job-posted-details-container{
+  background: rgba(82, 93, 121, 0.4);
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  border-radius: 0 0 10px 10px;
+}
+
+.job-apply-button{
+  background: #5CA4A9;
+  color: white;
+  border: none;
+  border-radius: 24px;
+  padding: 12px 24px;
+  cursor: pointer;
+}
+
+.company-name{
+  text-align: left;
+}
